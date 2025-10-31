@@ -1,0 +1,10 @@
+{"preview":false,"result":{"domain":"teredo.ipv6.microsoft.com","src_ip":"10.10.117.210","count":"25591","percent":"7.334283"}}
+{"preview":false,"result":{"domain":"www.apple.com","src_ip":"192.168.202.93","count":"8934","percent":"2.560450"}}
+{"preview":false,"result":{"domain":"tools.google.com","src_ip":"10.10.117.210","count":"8251","percent":"2.364705"}}
+{"preview":false,"result":{"domain":"44.206.168.192.in-addr.arpa","src_ip":"192.168.202.83","count":"6102","percent":"1.748810"}}
+{"preview":false,"result":{"domain":"HPE8AA67","src_ip":"192.168.202.76","count":"5754","percent":"1.649074"}}
+{"preview":false,"result":{"domain":"time.apple.com","src_ip":"192.168.202.93","count":"5080","percent":"1.455909"}}
+{"preview":false,"result":{"domain":"imap.gmail.com","src_ip":"192.168.203.63","count":"4682","percent":"1.341843"}}
+{"preview":false,"result":{"domain":"WPAD","src_ip":"192.168.202.76","count":"4341","percent":"1.244114"}}
+{"preview":false,"result":{"domain":"stats.norton.com","src_ip":"10.10.117.210","count":"3847","percent":"1.102536"}}
+{"preview":false,"lastrow":true,"result":{"domain":"api.twitter.com","src_ip":"192.168.202.103","count":"3466","percent":"0.993342"}}
